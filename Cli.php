@@ -17,4 +17,5 @@ class Cli
 		print basename($backtrace[0]["file"]) . ':' . vsprintf ('%-4d', $backtrace[0]["line"]) .
 			' [' . date('Y-m-d H:i:s') . '] ' . $message . "\n";
 	}
+
 }
