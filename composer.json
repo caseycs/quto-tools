@@ -1,0 +1,8 @@
+{
+    "name": "quto/tools",
+    "autoload": {
+        "psr-0": {
+            "Tools": ""
+        }
+    }
+}
